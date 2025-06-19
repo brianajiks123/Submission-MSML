@@ -1,0 +1,18 @@
+{
+  "Gender": "Male",
+  "Age": 30,
+  "Height": 175,
+  "Weight": 70,
+  "family_history": 1,
+  "FAVC": 0,
+  "FCVC": 2,
+  "NCP": 2,
+  "CAEC": 1,
+  "SMOKE": 0,
+  "CH2O": 3,
+  "SCC": 0,
+  "FAF": 1.5,
+  "TUE": 2,
+  "CALC": 1,
+  "MTRANS": 2
+}
