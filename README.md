@@ -10,7 +10,7 @@
 
 ## Screenshots 🖼️
 
-
+[View](https://brianajiks123.github.io/Submission-MSML/)
 
 ## Setup & Run 🛠️
 
